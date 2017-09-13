@@ -14,9 +14,9 @@ They are nearly same except header region and data endian.
 - `.wav` data region is in Little-Endian.
 
 ## Reference
-https://en.wikipedia.org/wiki/Au_file_format
-https://en.wikipedia.org/wiki/SND_(file)
-http://www.bluez.org/sbc-13/
-https://www.kernel.org/pub/linux/bluetooth/
+- https://en.wikipedia.org/wiki/Au_file_format
+- https://en.wikipedia.org/wiki/SND_(file)
+- http://www.bluez.org/sbc-13/
+- https://www.kernel.org/pub/linux/bluetooth/
 
 ## To be continued ...
