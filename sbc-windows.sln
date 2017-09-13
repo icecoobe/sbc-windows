@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libsbc-windows", "libsbc-wi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sbcdec", "sbcdec\sbcdec.vcxproj", "{C2EAD3BE-9B92-482E-A34F-45E011E243AC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sbcinfo", "sbcinfo\sbcinfo.vcxproj", "{239FF6E1-4A4D-4CFF-B159-4CDD184A48F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{C2EAD3BE-9B92-482E-A34F-45E011E243AC}.Debug|Win32.Build.0 = Debug|Win32
 		{C2EAD3BE-9B92-482E-A34F-45E011E243AC}.Release|Win32.ActiveCfg = Release|Win32
 		{C2EAD3BE-9B92-482E-A34F-45E011E243AC}.Release|Win32.Build.0 = Release|Win32
+		{239FF6E1-4A4D-4CFF-B159-4CDD184A48F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{239FF6E1-4A4D-4CFF-B159-4CDD184A48F1}.Debug|Win32.Build.0 = Debug|Win32
+		{239FF6E1-4A4D-4CFF-B159-4CDD184A48F1}.Release|Win32.ActiveCfg = Release|Win32
+		{239FF6E1-4A4D-4CFF-B159-4CDD184A48F1}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
