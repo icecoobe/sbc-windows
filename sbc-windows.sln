@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libsbc-windows", "libsbc-windows\libsbc-windows.vcxproj", "{CADEA3E8-DA67-46C2-9638-02EA52FE22A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sbcdec", "sbcdec\sbcdec.vcxproj", "{C2EAD3BE-9B92-482E-A34F-45E011E243AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADEA3E8-DA67-46C2-9638-02EA52FE22A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CADEA3E8-DA67-46C2-9638-02EA52FE22A5}.Debug|Win32.Build.0 = Debug|Win32
+		{CADEA3E8-DA67-46C2-9638-02EA52FE22A5}.Release|Win32.ActiveCfg = Release|Win32
+		{CADEA3E8-DA67-46C2-9638-02EA52FE22A5}.Release|Win32.Build.0 = Release|Win32
+		{C2EAD3BE-9B92-482E-A34F-45E011E243AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2EAD3BE-9B92-482E-A34F-45E011E243AC}.Debug|Win32.Build.0 = Debug|Win32
+		{C2EAD3BE-9B92-482E-A34F-45E011E243AC}.Release|Win32.ActiveCfg = Release|Win32
+		{C2EAD3BE-9B92-482E-A34F-45E011E243AC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
